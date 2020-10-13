@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Nothing to be translated here-->
+
+    <string-array name="pref_theme_entries">
+        <item>@string/light</item>
+        <item>@string/dark</item>
+        <item>@string/black</item>
+    </string-array>
+
+    <string-array name="pref_theme_values">
+        <item>Sáng</item>
+        <item>Tối</item>
+        <item>Đen</item>
+    </string-array>
+
+
+    <string-array name="pref_startpage_entries">
+        <item>@string/last_opened</item>
+        <item>@string/songs</item>
+        <item>@string/albums</item>
+        <item>@string/artists</item>
+    </string-array>
+
+    <string-array name="pref_startpage_values">
+        <item>Mở lần cuối</item>
+        <item>Nhiều bài hát</item>
+        <item>Nhiều album</item>
+        <item>Nghệ sĩ</item>
+    </string-array>
+
+</resources>

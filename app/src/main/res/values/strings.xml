@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Music App</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="accessibility_play">Play</string>
+    <string name="accessibility_pause">Tạm dừng</string>
+    <string name="accessibility_next">Kết tiếp</string>
+    <string name="accessibility_prev">Trước</string>
+    <string name="accessibility_shuffle">Xáo trộn</string>
+    <string name="accessibility_shuffle_all">Xáo trộn tất cả</string>
+    <string name="accessibility_repeat">Trả lời lại</string>
+    <string name="accessibility_repeat_all">Trả lời lại tất cả</string>
+    <string name="accessibility_repeat_one">Trả lời lại tất cả</string>
+    <string name="accessibility_queue">Mở hàng đợi</string>
+    <string name="accessibility_browse">Tìm nhạc</string>
+
+    <string name="menu_sort_by">Sắp xếp</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="sort_order_entry_artist">Nghệ sĩ</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_year">Năm phát hành</string>
+    <string name="sort_order_entry_track_number">Số theo dõi</string>
+    <string name="sort_order_entry_duration">Thời lượng</string>
+    <string name="sort_order_entry_date_added">Ngày thêm</string>
+    <string name="sort_order_entry_track_list">Danh sách theo dõi</string>
+    <string name="sort_order_entry_number_of_songs">Số lượng bài hát</string>
+    <string name="sort_order_entry_number_of_albums">Số lượng album</string>
+    <string name="sort_order_entry_filename">Tên tệp</string>
+
+    <string name="error_playing_track">Lỗi phát bài hát</string>
+
+    <string name="playlist_last_added">Đã thêm lần cuối</string>
+    <string name="playlist_recently_played">Phát gần đây</string>
+    <string name="playlist_top_tracks">Bài hát hàng đầu của tôi</string>
+
+    <string name="timber_source">Báo cáo bất kỳ lỗi <u> đây</u> </string>
+    <string name="timber_feature_request">Chỉ định bất kỳ yêu cầu tính năng nào trong cộng đồng Google+<u>đây</u></string>
+
+    <string name="menu_show_as">Xem dưới dạng</string>
+    <string name="menu_show_as_entry_list">Danh sách</string>
+    <string name="menu_show_as_entry_grid">Lưới</string>
+    <string name="menu_show_as_entry_default">Mặc định</string>
+
+    <string name="light">Ánh sáng</string>
+    <string name="dark">Tối</string>
+    <string name="black">Đen</string>
+
+    <string name="last_opened">Lần mở cuối cùng</string>
+
+    <string name="songs">Bài hát</string>
+    <string name="albums">Album</string>
+    <string name="artists">Nghệ sĩ</string>
+    <string name="videos">Video</string>
+    <string name="online">Nhạc trực tuyến</string>
+    <string name="library">Nhạc của tôi</string>
+    <string name="playlists">Danh sách cá nhân</string>
+    <string name="playing_queue">Danh sách đang phát</string>
+    <string name="now_playing">Bài hát Đang phát</string>
+    <string name="settings">Cài đặt</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="action_shuffle_all">Phát ngẫu nhiên</string>
+    <string name="action_equalizer">Bộ cân bằng</string>
+    <string name="search_library">Tìm kiếm thư viện</string>
+
+    <string name="select_theme">Lựa chọn chủ đề</string>
+    <string name="choose_theme_throughout">Chọn một chủ đề cho ứng dụng</string>
+    <string name="choose_start_page">Chọn trang bắt đầu được hiển thị khi khởi động máy</string>
+    <string name="start_page">Trang bắt đầu</string>
+    <string name="artist_in_grid">Các nghệ sĩ ở dạng lưới</string>
+    <string name="toggle_artists_grid">Hiển thị nghệ sĩ ở dạng lưới 2x2</string>
+    <string name="toggle_system_animations">Chuyển đổi cho hình ảnh động hệ thống trong suốt ứng dụng</string>
+    <string name="system_animations">Ảnh động hệ thống</string>
+    <string name="toggle_animations">Chuyển đổi cho hình ảnh chuyển tiếp trong suốt ứng dụng</string>
+    <string name="animations">Ảnh động</string>
+    <string name="now_playing_selector">Chọn một màn hình đang phát từ 4 kiểu khác nhau</string>
+    <string name="personalisation">Cá nhân</string>
+    <string name="other">Khác</string>
+    <string name="advanced">Nâng cao</string>
+    <string name="summary_pause_detach">Chuyển đổi để tạm dừng phát lại khi tai nghe bị tách ra</string>
+    <string name="pause_detach">Tạm dừng trên Detach</string>
+    <string name="summary_xposed_trackselector">XMediaNotificationTrackSelector Xposed được cài đặt sẽ cung cấp quyền truy cập vào hàng đợi chơi từ chính thanh thông báo</string>
+    <string name="xposed_trackselector">Chơi hỗ trợ xếp hàng trong thông báo</string>
+    <string name="currently_selected">Hiện được chọn</string>
+
+    <string name="dark_theme">Chủ đề tối</string>
+    <string name="dark_theme_summary">Áp dụng một chủ đề tối trong suốt ứng dụng</string>
+
+    <string name="primary_color">Màu chính</string>
+    <string name="primary_color_summary">Thay đổi màu chủ đề chính</string>
+
+    <string name="accent_color">Màu nhấn</string>
+    <string name="accent_color_summary">Thay đổi màu chủ đề trọng âm</string>
+
+    <string name="colored_status_bar">Thanh trạng thái màu</string>
+    <string name="colored_status_bar_summary">Chuyển đổi màu thanh trạng thái</string>
+
+    <string name="colored_nav_bar">Thanh điều hướng màu</string>
+    <string name="colored_nav_bar_summary">Chuyển đổi màu thanh điều hướng</string>
+
+    <string name="albumart_lockscreen">Màn hình khóan</string>
+    <string name="albumart_lockscreen_summary">Hiển thị album nghệ thuật trong màn hình khóa</string>
+
+    <string name="load_artist_album_image">Tải hình ảnh nghệ sĩ / album</string>
+    <string name="load_artist_album_image_summary">Tải hình ảnh nghệ sĩ / album từ lastfm</string>
+
+    <string name="load_artist_album_image_mobile">Tải hình ảnh nghệ sĩ / album trên dữ liệu di động</string>
+    <string name="load_artist_album_image_mobile_summary">Tải hình ảnh nghệ sĩ / album ngay cả khi không có wifi</string>
+
+    <string name="gestures">Gestures</string>
+    <string name="switching_tracks_by_gestures">Chuyển bài hát bằng Gestures</string>
+    <string name="widget_standard">Thanh thời gian bắt đầu</string>
+    <string name="widget_small">Thanh thời gian nhỏ nhất</string>
+    <string name="tap_to_start">Nhấn để bắt đầu thanh thời gian</string>
+    <string name="widget_white">Thanh căn chỉnh ánh sáng </string>
+
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> Bài hát</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> Nhiều bài hát</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> Album</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> Nhiều album</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> Nghệ sĩ</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> Nhiều nghệ sĩ</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> Bài hát được thêm vào hàng đợi</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g>Bài hát được thêm vào hàng đợi</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> Bài hát được thêm vào danh sách phát</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g>Bài hát được thêm vào danh sách phát</string>
+
+
+    <!--do not translate these strings-->
+    <string name="combine_two_strings" translatable="false">%1$s | %2$s</string>
+    <string name="duration_format" translatable="false"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="play">Chạy</string>
+    <string name="add_to_playlist">Thêm vào danh sách phát</string>
+    <string name="go_to_album">Đi đến album</string>
+    <string name="go_to_artist">Đi đến nghệ sĩ</string>
+    <string name="add_to_queue">Thêm vào hàng đợi</string>
+    <string name="play_next">Lượt tiếp theo</string>
+    <string name="new_playlist">Danh sách phát mới</string>
+    <string name="share">Chia sẻ</string>
+    <string name="delete_from_device">Xóa khỏi thiết bị</string>
+    <string name="remove_from_queue">Xóa khỏi hàng đợi</string>
+
+    <string name="nothing_found">Không tìm thấy</string>
+    <string name="folders">Thư mục</string>
+    <string name="select_storage">Chọn lưu trữ</string>
+
+    <string name="lastfm_pref">Đăng nhập vào LastFM để scrobble</string>
+    <string name="lastfm_login_failture">Không thể đăng nhập</string>
+    <string name="lastfm_login">Đăng nhập vào LastFM</string>
+    <string name="lastfm_loged_in">Đăng nhập vào %s</string>
+
+    <string name="cancel">Hủy bỏ</string>
+    <string name="always_load_album_images_lastfm">Luôn tải hình ảnh album từ Last.fm</string>
+    <string name="always_load_album_images_lastfm_summary">Nếu không được chọn, album nghệ thuật sẽ được tìm nạp cục bộ từ tệp bài hát nếu có</string>
+
+    <string name="menu_show_lyrics">Hiển thị lời bài hát</string>
+    <string name="no_lyrics">Không tìm thấy lời bài hát</string>
+    <string name="lyrics_makeitpersonal">Cung cấp bởi <a href="https://makeitpersonal.co/">makeitpersonal.co</a></string>
+    <string name="cast">Cast</string>
+    <string name="now_playing_no_track_selected">Không có bài hát hiện tại được chọn</string>
+    <string name="lyrics_loading">Đang tải...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Xin chào blank fragment</string>
+
+</resources>
